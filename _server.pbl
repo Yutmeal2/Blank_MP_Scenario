@@ -1,0 +1,10 @@
+title="Blank MP Scenario"
+type="campaign"
+icon="misc/ball.png"
+version="0.0.1"
+author="Yutmeal2"
+description="Simple template for a multiplayer map."
+email=""
+[feedback]
+    topic_id=12345
+[/feedback]
